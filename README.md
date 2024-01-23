@@ -1,2 +1,8 @@
 # Recurrent-Neural-Network-Theory
-Statistical and Machine Learning 1D Project
+SUTD 40.319 Statistical and Machine Learning 1D Project \n
+In this project, we looked into theory of Recurrent Neural Network and explored applications of RNN and LSTM in stock price prediction. \n
+I focused more on the theory, in terms of the Architecture of RNN models, and the mathematics and algorithm of Back Propogation Through Time(BPTT), for the training of RNN Models. \n
+
+# Instructions
+Simple download and open RecurrentNeuralNetowkr.html to view the project report. \n
+To run the code, first ensure R Shiny is installed. Then, open 'SML.RProj' .
