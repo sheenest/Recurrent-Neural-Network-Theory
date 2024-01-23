@@ -5,4 +5,4 @@ I focused more on the theory, in terms of the Architecture of RNN models, and th
 
 # Instructions
 Simple download and open 'RecurrentNeuralNetowkr.html' to view the project report.  
-To run the code, first ensure R Shiny is installed. Then, open 'SML.RProj'.  
+To run the code, first ensure R Shiny is installed. Then, open 'SML.RProj'. With the open R Project, open 'RecurrentNeuralNetwork.Rmd'.
